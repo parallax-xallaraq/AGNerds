@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\polar\\anaconda3\\python.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\polar\\anaconda3\\Scripts\\activate.bat C:\\Users\\polar\\anaconda3 & conda activate py3env"],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "python.analysis.extraPaths": ["C:\\Users\\polar\\OneDrive - The University of Kansas\\AGNerds\\AGNerds"]
+}
