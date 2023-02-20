@@ -1,4 +1,4 @@
-Field,RA_thphot,Dec_thphot,RA_egs,Dec_egs
+Field,RA_tphot,Dec_tphot,RA_egs,Dec_egs
 miri6,215.040446,52.891757,215.299365,53.063145
 miri6,215.011364,52.905286,215.132316,52.963676
 miri6,215.011364,52.905286,214.758777,52.698678
